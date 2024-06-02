@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me luisfernandosalas29052017@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I use the Unity graphics engine in addtion to knowing at a basic level
+- ⚡ Fun fact: I use the Unity graphics engine in addtion to knowing c++ at a basic level
 
 <!---
 LuisFernandoSalas/LuisFernandoSalas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
